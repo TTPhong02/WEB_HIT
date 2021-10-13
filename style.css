@@ -1,0 +1,17 @@
+.header{
+    color: red;
+    text-align: center;
+}
+.table,
+.table td,
+.table th{
+    border: 1px solid black;
+}
+img {
+    width: 700px;
+    height:400px;
+    margin-top: 10px;
+}
+p,a{
+    margin: 10px 0;
+}
